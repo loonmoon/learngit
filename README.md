@@ -8,5 +8,8 @@
 
 32017年01月03日12:35:25
 
-这是master分枝。
 
+- git checkout -b <name>  表示：创建分支并切换到该分支；
+- git merge <name>  合并指定分支到当前分支
+
+---
